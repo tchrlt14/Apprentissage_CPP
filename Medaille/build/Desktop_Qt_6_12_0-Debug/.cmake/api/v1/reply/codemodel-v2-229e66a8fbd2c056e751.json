@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-04f43a504ffb985f8e78.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sans_titre",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sans_titre::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sans_titre-Debug-03020c6729e24c85b03e.json",
+					"name" : "sans_titre",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/USERS/ELEVES/CIEL2025/tcharlot/Documents/CIEL 2 /INFO/C++/sans_titre/build/Desktop_Qt_6_12_0-Debug",
+		"source" : "/home/USERS/ELEVES/CIEL2025/tcharlot/Documents/CIEL 2 /INFO/C++/sans_titre"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
